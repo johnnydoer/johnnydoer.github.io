@@ -1,0 +1,15 @@
+- name: Python
+  percentage: 90
+  color: primary
+
+- name: Go
+  percentage: 50
+  color: info
+
+- name: Bash
+  percentage: 50
+  color: light
+
+- name: MIPS Assembly
+  percentage: 50
+  color: danger

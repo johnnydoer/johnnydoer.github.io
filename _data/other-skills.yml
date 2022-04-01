@@ -1,0 +1,7 @@
+- name: Video Editing
+  percentage: 70
+  color: warning
+
+- name: Photo Editing
+  percentage: 40
+  color: success
