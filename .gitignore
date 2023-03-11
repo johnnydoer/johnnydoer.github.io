@@ -20,3 +20,6 @@ Gemfile.lock
 
 # Log Files
 *.log
+
+# VSCode
+.vscode
