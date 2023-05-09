@@ -1,7 +1,15 @@
 - name: Video Editing
   percentage: 70
-  color: warning
+  color: white
 
 - name: Photo Editing
   percentage: 40
   color: success
+  
+- name: Microsoft Excel
+  percentage: 70
+  color: primary
+  
+ - name: Microsoft Powerpoint
+  percentage: 80
+  color: warning
