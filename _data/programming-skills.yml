@@ -1,15 +1,15 @@
 - name: Python
   percentage: 90
-  color: primary
+  color: red
 
 - name: Go
   percentage: 50
-  color: info
+  color: yellow
 
 - name: Bash
   percentage: 50
-  color: light
+  color: pink
 
 - name: MIPS Assembly
   percentage: 50
-  color: danger
+  color: navy

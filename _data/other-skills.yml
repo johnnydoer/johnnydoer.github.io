@@ -1,15 +1,15 @@
 - name: Video Editing
   percentage: 70
-  color: cosmic-purple
+  color: green
 
 - name: Photo Editing
   percentage: 40
-  color: success
+  color: purple
   
 - name: Microsoft Excel
   percentage: 70
-  color: primary
+  color: gray
   
 - name: Microsoft Powerpoint
   percentage: 80
-  color: solar-orange
+  color: darkblue

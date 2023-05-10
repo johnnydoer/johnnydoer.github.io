@@ -1,0 +1,19 @@
+- name: Burp Suite
+  percentage: 70
+  color: blue
+
+- name: Cisco Packet Tracer
+  percentage: 50
+  color: orange
+  
+- name: Docker
+  percentage: 90
+  color: brown
+  
+- name: Kubernetes
+  percentage: 30
+  color: darkred
+
+- name: Wireshark
+  percentage: 80
+  color: darkgreen
