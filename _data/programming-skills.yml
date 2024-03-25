@@ -2,7 +2,7 @@
   percentage: 90
   color: red
 
-- name: Go
+- name: Golang
   percentage: 50
   color: yellow
 

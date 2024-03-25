@@ -1,4 +1,12 @@
-- title: Graduate Teaching Assistant - Networking II, Simon Fraser University
+- title: Cyber Security Architecture Student, BlackBerry Limited,
+  from: September 2023
+  to: December 2023
+  description: • Orchestrated rigorous testing for diverse Data Loss Prevention (DLP) solutions across Windows, Mac, and Linux platforms, evaluating their efficacy for BlackBerry's specialized requirements.<br>
+               • Resolved compatibility issues between the in-house Zero Trust Network Access (ZTNA) and vendor’s Cloud Access Security Broker (CASB) and Secure Web Gateway (SWG), employing advanced troubleshooting and collaborating closely with sysadmins and developers.<br>
+               • Conducted threat modeling as part of in-depth Security Review Assessments (SRAs) for prospective tools and software, meticulously analyzing vulnerabilities and articulating risk to senior management.<br>
+               • Collaborated with interdisciplinary teams, delivering precise feedback to senior management based on exhaustive performance evaluations of DLP solutions, enabling data-driven decision-making.
+
+- title: Graduate Teaching Assistant - Data Communications and Networking & Networking II, Simon Fraser University
   from: September 2022
   to: April 2023
   description: • Spearheaded the evaluation of course assignments, quizzes, and examinations, ensuring adherence to academic standards and timely grading of submissions.<br>
@@ -9,10 +17,10 @@
 - title: Security Analyst, Securitybulls Pvt. Ltd.
   from: June 2021
   to: September 2021
-  description: • Conducted over 95 network, advanced web, mobile, and API penetration tests, exercising expertise in security testing and analysis.<br>
-               • Articulated security risk and findings to diverse client stakeholders, including both executive and technical staff, in clear and concise terms.<br>
-               • Verified and scrutinized patches applied for reported vulnerabilities, ensuring comprehensive validation of patch implementation and accuracy.<br>
-               • Demonstrated leadership in overseeing a team of three interns for a comprehensive security assessment project from initiation to conclusion.
+  description: • Discovered and leveraged vulnerabilities in over 95+ web applications and networks, meticulously documenting findings and providing comprehensive remediation recommendations.<br>
+               • Coordinated with cross-functional teams, including IT, development, and business stakeholders, to identify and address security issues and implement effective security controls, using concise reports.<br>
+               • Verified patches applied to identified vulnerabilities, such as Cross-Site Scripting (XSS), SQL Injection (SQLi), Cross-Site Request Forgery (CSRF), Server-Side Request Forgery (SSRF) ensuring effective implementation and identifying and addressing any shortcomings in the patching process.<br>
+               • Supervised the comprehensive security assessment project, leading a team of three interns through every phase from thorough planning and execution to detailed reporting and rigorous patch validation.
 
 - title: Security Analyst Intern, Securitybulls Pvt. Ltd.
   from: November 2020

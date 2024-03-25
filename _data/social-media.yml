@@ -31,6 +31,11 @@ github:
   icon  : fab fa-github
   color : 333333
 
+gitbook:
+  url   : https://www.gitbook.com/
+  icon  : fab fa-file-pdf
+  color : 333333
+
 gitlab:
   url   : https://www.gitlab.com/
   icon  : fab fa-gitlab
