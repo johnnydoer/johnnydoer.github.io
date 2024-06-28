@@ -7,7 +7,7 @@ weight: 4
 
 # **About Me**
 
-Hi I am **{{ site.author.name }}** :wave:, a passionate developer who is fascinated by cyber security, automation, devops and networking. I love to tackle complex problems and master new skills. When I’m not coding or hacking, I like to jam on my guitar 🎸, binge anime 🍿 and read books 📚. I’m always up for new challenges and opportunities to grow. Nice to meet you! 😊
+Hi I am **{{ site.author.name }}** :wave:, a passionate engineer who is fascinated by cyber security, automation, devops and networking. I love to tackle complex problems and master new skills. When I’m not coding or hacking, I like to jam on my guitar 🎸, binge anime 🍿 and read books 📚. I’m always up for new challenges and opportunities to grow. Nice to meet you! 😊
 
 
 <div class="row">
